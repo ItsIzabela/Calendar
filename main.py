@@ -100,7 +100,6 @@ class CalendarApp:
         if not dt_obj:
             self.event_label.config(text="Brak wydarzeń dla wybranej daty.")
             return
-        # Normalize date to dd-mm-yyyy string
         norm_date = dt_obj.strftime("%d-%m-%Y")
         events = self.events.get(norm_date, [])
         if events:
