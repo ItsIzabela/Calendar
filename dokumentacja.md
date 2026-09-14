@@ -15,20 +15,20 @@
 <!--toc -->
 - [Dokumentacja kalendarza](#dokumentacja-kalendarza)
 - [Spis treści:](#spis-treści)
-- [1. Opis działania aplikacji konsolowej](#1-opis-działania-aplikacji-konsolowej)
+- [1. Opis działania aplikacji desktopowej](#1-opis-działania-aplikacji-desktopowej)
 - [2. Opis aplikacji desktopowej](#2-opis-aplikacji-desktopowej)
 - [3. Uruchomienie aplikacji](#3-uruchomienie-aplikacji)
 - [4. Opis funkcji aplikacji](#4-opis-funkcji-aplikacji)
 
 <!--/toc -->
 
-# 1. Opis działania aplikacji konsolowej
+# 1. Opis działania aplikacji desktopowej
 
-Aplikacja desktopowa w języku Python, służy do wyświetlania kalendarza oraz do wyświetlaniu własnych wydarzeń z pliku lub zapisywanie ich do pliku 
+Aplikacja desktopowa w języku Python, służy do wyświetlania kalendarza oraz do wyświetlania/dodawania własnych wydarzeń z pliku lub zapisywanie ich do pliku 
 
 # 2. Opis aplikacji desktopowej
 
-Aplikacja desktopowa pozwala na wprowadzanie nowych wydarzeń do kalendarza albo na wczytywanie wydarzeń z pliku tekstowego
+Aplikacja desktopowa pozwala na wprowadzanie nowych wydarzeń do kalendarza i  ich zapis albo na wczytywanie wydarzeń z pliku tekstowego
 
 # 3. Uruchomienie aplikacji 
 
