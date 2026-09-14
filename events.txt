@@ -1,3 +1,5 @@
-2026-09-14; Dzień programisty
-2026-09-15; Dzień Kropki
-2026-09-20; Ogólnopolski Dzień Przedszkolaka.
+14-09-2026;Dzień programisty
+19-09-2026;Dzień przedszkolaka
+30-09-2026;Dzień Chłopaka
+17-09-2026;Dzień na czerwono
+18-09-2026;Dzień na zielono
