@@ -48,11 +48,15 @@ Aplikacja desktopowa pozwala na wprowadzanie nowych wydarzeń do kalendarza i  i
    
    __działanie:__ funkcja inicializuje aplikacje
 
+   ---
+
 + __funkcja:__ ```load_events(self):```
    
    __działanie:__ funkcja wczytuje wydarzenia z wybranego pliku tekstowego (obsługuje tylko .txt)
 
    warunek: wymagany jest format ```dd-mm-yyyy; *nazwa wydarzenia*``` aby moć wczytać wydarzenia
+
+   ---
 
 + __funkcja:__ ```add_event_manually(self):```
    
@@ -60,19 +64,27 @@ Aplikacja desktopowa pozwala na wprowadzanie nowych wydarzeń do kalendarza i  i
 
    warunek: wymagane jest wpisanie poprawnej daty w formacie ```dd-mm-yyyy```
 
+   ---
+
 + __funkcja:__ ```save_event(self, date_str, event_desc, window):```
    
    __działanie:__ funkcja zapisuję własnorecze wpisanie wydarzenia do pliku events.txt
 
    warunek: wymagane jest wpisanie poprawnej daty w formacie ```dd-mm-yyyy```
 
+   ---
+
 + __funkcja:__ ```on_date_selected(self, event):```
    
    __działanie:__ funkcja wyświetla wybraną datę na ekranie
 
+   ---
+
 + __funkcja:__ ```update_events(self, date_str):```
    
    __działanie:__ funkcja aktualizuje wydarzenia po wybraniu daty lub pokazuje ich brak jeśli w danym dniu nie ma żadnego wydarzenia
+
+   ---
 
 + __funkcja:__ ```run(self):```
    
